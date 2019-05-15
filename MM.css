@@ -1,0 +1,24 @@
+ .nav-bar{
+            background: url("Monday.jpg") no-repeat;
+            height: 400px;
+            background-size: 100%;
+            border-radius: 15px;
+            
+        }
+        .navbar{
+            background-color: transparent !important;
+        }
+        .nav-bar li{
+            padding: 0 10px;
+        }
+        .nav-bar ul li a:hover{
+            color: aqua!important;
+        }
+        .nav-link{
+            font-weight: 500;
+            font font-size:16px;
+            
+        }
+        .nav-toggler{
+            border: none!important;
+        }
