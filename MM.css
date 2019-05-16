@@ -1,8 +1,15 @@
- .nav-bar{
+.{margin: 0;
+    padding: 0;
+    
+    
+    
+    
+} .nav-bar{
             background: url("Monday.jpg") no-repeat;
             height: 400px;
             background-size: 100%;
             border-radius: 15px;
+
             
         }
         .navbar{
@@ -22,3 +29,17 @@
         .nav-toggler{
             border: none!important;
         }
+.dropdown:hover>.dropdown-menu{
+    display: block;
+    
+}
+.dropdown:hover{
+    background-color: aqua;
+    border-radius: 10px;
+}
+.dropdown-item:hover{
+    display: block;
+    background-color:aqua;
+    border-radius: 10px;
+    font-weight: 600;
+}
