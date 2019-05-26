@@ -1,0 +1,59 @@
+.{margin: 0;
+    padding: 0;
+    
+    
+    
+    
+} .nav-bar{
+            background: url("Monday.jpg") no-repeat;
+            height: 400px;
+            background-size: 100%;
+            border-radius: 15px;
+            margin: 10px;
+            padding: 10px;
+
+            
+        }
+        .navbar{
+            background-color: transparent !important;
+        }
+        .nav-bar li{
+            padding: 0 10px;
+        }
+        .nav-bar ul li a:hover{
+            color: aqua!important;
+        }
+        .nav-link{
+            font-weight: 500;
+            font font-size:16px;
+            
+        }
+        .nav-toggler{
+            border: none!important;
+        }
+.dropdown:hover>.dropdown-menu{
+    display: block;
+    
+}
+.dropdown:hover{
+    background-color:aqua;
+    border-radius: 10px;
+}
+.dropdown-item:hover{
+    display: block;
+    background-color:aqua;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.container{
+    margin:8px;
+    padding:8px;
+}
+ .site-footer{
+background-color:dimgray;
+          border-radius:10px; }
+          .last-footer{
+              background-color:dimgrey;
+              border-radius: 10px;
+              
+          }
